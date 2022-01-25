@@ -28,7 +28,7 @@ https://www.lambdatest.com/blog/best-test-automation-frameworks-2021/
 
 
 
-# SDET- QA Automation Techie - Video Aula sobre automação de Teste + tecnologias diversas
+# SDET- QA Automation Techie
 
 - https://www.youtube.com/c/pavanoltraining
 
